@@ -1,0 +1,14 @@
+[tool.pdm]
+
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "Felipe Baltor", email = "fbaltor@gmail.com"},
+]
+dependencies = [
+    "boto3>=1.26.77",
+]
+requires-python = ">=3.9"
+license = {text = "MIT"}
